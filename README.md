@@ -1,1 +1,1 @@
-# Unsupervised-feature-learning-STL-10-
+# Unsupervised-feature-learning-STL-10
